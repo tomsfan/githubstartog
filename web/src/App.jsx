@@ -175,11 +175,12 @@ const ProjectShowcase = () => {
 
     if (isLoading) {
         return (
-            <div className="flex justify-center items-center min-h-screen bg-gray-100">
-                <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-blue-600"></div>
+            <div className="fixed inset-0 flex justify-center items-center">
+                <div className="w-16 h-16 border-4 border-t-4 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
             </div>
         );
     }
+
 
     return (
         <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8 relative">
