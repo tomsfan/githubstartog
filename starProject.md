@@ -1,4 +1,17 @@
+### [openauthjs/openauth](https://github.com/openauthjs/openauth)
+- **Description:** ▦ Universal, standards-based auth provider.
+
+### [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
+- **Description:** 中文大模型能力评测榜单：目前已囊括128个大模型，覆盖chatgpt、gpt-4o、谷歌gemini、百度文心一言、阿里通义千问、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及qwen2.5、llama3.1、glm4、书生internLM2.5、openbuddy、AquilaChat等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+
+### [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars)
+- **Description:** Github Starred Repositories Manager
+
+### [ccbikai/github-stars](https://github.com/ccbikai/github-stars)
+- **Description:** 获取你所有的星标仓库，并将它们的 README 文件保存为 Markdown 格式。
+
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
+- **Description:** 将你的星标项目做成前端页面
 
 ### [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search)
 - **Description:** A fast, accurate and multilingual fuzzy search library for the frontend.
@@ -486,7 +499,7 @@
 - **Description:** 🔥🔥🔥Compose一键集成5大地图平台地图
 
 ### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
-- **Description:** A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+- **Description:** A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
 ### [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder)
 - **Description:** SemanticFinder - frontend-only live semantic search with transformers.js
@@ -765,7 +778,7 @@
 - **Description:** [ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
 
 ### [SHI-Labs/OneFormer](https://github.com/SHI-Labs/OneFormer)
-- **Description:** OneFormer: One Transformer to Rule Universal Image Segmentation, arxiv 2022 / CVPR 2023
+- **Description:** [CVPR 2023] OneFormer: One Transformer to Rule Universal Image Segmentation
 
 ### [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
 - **Description:** Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
@@ -926,7 +939,7 @@
 - **Description:** Instant neural graphics primitives: lightning fast NeRF and more
 
 ### [microsoft/autogen](https://github.com/microsoft/autogen)
-- **Description:** A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
+- **Description:** A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 
 ### [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
 - **Description:** Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
@@ -1209,7 +1222,7 @@
 - **Description:** Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 
 ### [bytebase/bytebase](https://github.com/bytebase/bytebase)
-- **Description:** The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
+- **Description:** World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 
 ### [unitedrhino/things](https://github.com/unitedrhino/things)
 - **Description:** 多租户多应用物联网设备接入平台
@@ -3009,7 +3022,7 @@
 - **Description:** 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ### [ory/kratos](https://github.com/ory/kratos)
-- **Description:** The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+- **Description:** Headless cloud-native authentication and identity management. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go. Runs best on Ory Network and available to self-host
 
 ### [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)
 - **Description:** An easy and fast way to create a Python GUI 🐍
