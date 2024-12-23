@@ -1,3 +1,24 @@
+### [Helicone/helicone](https://github.com/Helicone/helicone)
+- **Description:** 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
+
+### [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+- **Description:** A generative world for general-purpose robotics & embodied AI learning.
+
+### [tw93/Pake](https://github.com/tw93/Pake)
+- **Description:** 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+### [microsoft/graphrag](https://github.com/microsoft/graphrag)
+- **Description:** A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+- **Description:** RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+
+### [VikParuchuri/surya](https://github.com/VikParuchuri/surya)
+- **Description:** OCR, layout analysis, reading order, table recognition in 90+ languages
+
+### [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
+- **Description:** Convert PDF to markdown + JSON quickly with high accuracy
+
 ### [openauthjs/openauth](https://github.com/openauthjs/openauth)
 - **Description:** ▦ Universal, standards-based auth provider.
 
