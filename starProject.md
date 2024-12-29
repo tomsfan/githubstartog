@@ -1,3 +1,26 @@
+### [destel/rill](https://github.com/destel/rill)
+- **Description:** Go toolkit for clean, composable, channel-based concurrency
+
+### [kaolengmian7/v2ex-tui](https://github.com/kaolengmian7/v2ex-tui)
+
+### [modstart-lib/focusany](https://github.com/modstart-lib/focusany)
+- **Description:** 专注高效的AI工具条
+
+### [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+- **Description:** 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+### [udecode/plate](https://github.com/udecode/plate)
+- **Description:** A rich-text editor powered by AI
+
+### [dataease/dataease](https://github.com/dataease/dataease)
+- **Description:** 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
+
+### [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+- **Description:** PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+
+### [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)
+- **Description:** Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. 
+
 ### [Helicone/helicone](https://github.com/Helicone/helicone)
 - **Description:** 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 
@@ -23,7 +46,7 @@
 - **Description:** ▦ Universal, standards-based auth provider.
 
 ### [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
-- **Description:** 中文大模型能力评测榜单：目前已囊括128个大模型，覆盖chatgpt、gpt-4o、谷歌gemini、百度文心一言、阿里通义千问、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及qwen2.5、llama3.1、glm4、书生internLM2.5、openbuddy、AquilaChat等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+- **Description:** 中文大模型能力评测榜单：目前已囊括134个大模型，覆盖chatgpt、gpt-4o、谷歌gemini、百度文心一言、阿里通义千问、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及deepseek-v2.5、qwen2.5、llama3.1、glm4、书生internLM2.5、openbuddy、AquilaChat等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
 
 ### [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars)
 - **Description:** Github Starred Repositories Manager
@@ -285,7 +308,7 @@
 - **Description:** Open-Source Form Builder
 
 ### [usuiat/Zoomable](https://github.com/usuiat/Zoomable)
-- **Description:** Jetpack Compose library that enables contents zooming with pinch gesture.
+- **Description:** Compose multiplatform library that enables the content to be zoomable by gestures
 
 ### [jbilcke-hf/ai-comic-factory](https://github.com/jbilcke-hf/ai-comic-factory)
 - **Description:** Generate comic panels using a LLM + SDXL. Powered by Hugging Face 🤗
@@ -828,7 +851,7 @@
 ### [wtybest/HairCLIPv2](https://github.com/wtybest/HairCLIPv2)
 - **Description:** [ICCV 2023] HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending
 
-### [Jeff-sjtu/HybrIK](https://github.com/Jeff-sjtu/HybrIK)
+### [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK)
 - **Description:** Official code of "HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation", CVPR 2021
 
 ### [liren2515/DrapeNet](https://github.com/liren2515/DrapeNet)
@@ -1147,7 +1170,7 @@
 - **Description:** Self-hosted AI coding assistant
 
 ### [tensorchord/openmodelz](https://github.com/tensorchord/openmodelz)
-- **Description:** One-click machine learning deployment (LLM, text-to-image and so on) at scale on any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).
+- **Description:** Autoscale LLM (vLLM, SGLang, LMDeploy) inferences on Kubernetes (and others)
 
 ### [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 - **Description:** Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -1246,7 +1269,7 @@
 - **Description:** World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 
 ### [unitedrhino/things](https://github.com/unitedrhino/things)
-- **Description:** 多租户多应用物联网设备接入平台
+- **Description:** 联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求，支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景。支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。
 
 ### [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
 - **Description:** Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -2175,7 +2198,7 @@
 - **Description:** A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 
 ### [milvus-io/milvus](https://github.com/milvus-io/milvus)
-- **Description:** A cloud-native vector database, storage for next generation AI applications
+- **Description:** Milvus is a high-performance, cloud-native vector database designed to scale.
 
 ### [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 - **Description:** A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -3043,7 +3066,7 @@
 - **Description:** 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ### [ory/kratos](https://github.com/ory/kratos)
-- **Description:** Headless cloud-native authentication and identity management. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go. Runs best on Ory Network and available to self-host
+- **Description:** Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. 
 
 ### [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)
 - **Description:** An easy and fast way to create a Python GUI 🐍
@@ -3301,9 +3324,6 @@
 
 ### [iPERDance/iPERCore](https://github.com/iPERDance/iPERCore)
 - **Description:** Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis
-
-### [spipm/Depix](https://github.com/spipm/Depix)
-- **Description:** Recovers passwords from pixelized screenshots
 
 ### [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template)
 - **Description:** Modern HTML Starter Template
