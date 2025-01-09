@@ -1,7 +1,74 @@
+### [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+- **Description:** Open Source Alternative to Vercel, Netlify and Heroku.
+
+### [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+- **Description:** Build your own AI friend
+
+### [kyegomez/swarms](https://github.com/kyegomez/swarms)
+- **Description:** The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.gg/jM3Z6M9uMq
+
+### [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+- **Description:** Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
+
+### [OpenSPG/KAG](https://github.com/OpenSPG/KAG)
+- **Description:** KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
+
+### [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+- **Description:** An open-source RAG-based tool for chatting with your documents.
+
+### [stanford-oval/storm](https://github.com/stanford-oval/storm)
+- **Description:** An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+
+### [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- **Description:** 🙌 OpenHands: Code Less, Make More
+
+### [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+- **Description:** Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+
+### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+
+### [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+- **Description:** Vue port of shadcn-ui
+
+### [crashmax-dev/fireworks-js](https://github.com/crashmax-dev/fireworks-js)
+- **Description:** 🎆 A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
+
+### [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn)
+- **Description:** DUI 配置 for foobar2000
+
+### [dream7180/foobox-en](https://github.com/dream7180/foobox-en)
+- **Description:** DUI theme for foobar2000
+
+### [rodleviton/vue-card-stack](https://github.com/rodleviton/vue-card-stack)
+- **Description:** Stackable, swipeable, tweakable Vue card component.
+
+### [primefaces/primevue](https://github.com/primefaces/primevue)
+- **Description:** Next Generation Vue UI Component Library
+
+### [chakra-ui/zag](https://github.com/chakra-ui/zag)
+- **Description:** Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+
+### [radix-ui/themes](https://github.com/radix-ui/themes)
+- **Description:** Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
+
+### [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)
+- **Description:** FinRL:  Financial Reinforcement Learning. 🔥
+
+### [maimemo/SSP-MMC](https://github.com/maimemo/SSP-MMC)
+- **Description:** A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling
+
+### [open-spaced-repetition/go-fsrs](https://github.com/open-spaced-repetition/go-fsrs)
+- **Description:** Go Module for FSRS
+
+### [open-spaced-repetition/anki-faqs-zh-CN](https://github.com/open-spaced-repetition/anki-faqs-zh-CN)
+- **Description:** Anki 常见问题（中文翻译）
+
 ### [destel/rill](https://github.com/destel/rill)
 - **Description:** Go toolkit for clean, composable, channel-based concurrency
 
 ### [kaolengmian7/v2ex-tui](https://github.com/kaolengmian7/v2ex-tui)
+- **Description:** 一个来自 2077 年的 V2EX 命令行客户端
 
 ### [modstart-lib/focusany](https://github.com/modstart-lib/focusany)
 - **Description:** 专注高效的AI工具条
@@ -46,7 +113,7 @@
 - **Description:** ▦ Universal, standards-based auth provider.
 
 ### [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
-- **Description:** 中文大模型能力评测榜单：目前已囊括134个大模型，覆盖chatgpt、gpt-4o、谷歌gemini、百度文心一言、阿里通义千问、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及deepseek-v2.5、qwen2.5、llama3.1、glm4、书生internLM2.5、openbuddy、AquilaChat等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+- **Description:** 中文大模型能力评测榜单：目前已囊括139个大模型，覆盖chatgpt、gpt-4o、谷歌gemini、Claude3.5、百度文心一言、千问、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及deepseek-v3、qwen2.5、llama3.1、glm4、书生internLM2.5等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
 
 ### [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars)
 - **Description:** Github Starred Repositories Manager
@@ -82,7 +149,7 @@
 - **Description:** The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 
 ### [ulab-uiuc/research-town](https://github.com/ulab-uiuc/research-town)
-- **Description:** A platform for developers to simulate research community
+- **Description:** A platform for developers to simulate collaborative research activities
 
 ### [yamalight/litlytics](https://github.com/yamalight/litlytics)
 - **Description:** 🔥 LitLytics - an affordable, simple analytics platform that leverages LLMs to automate data analysis
@@ -609,7 +676,7 @@
 - **Description:** Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
 
 ### [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
-- **Description:** Instant voice cloning by MIT and MyShell.
+- **Description:** Instant voice cloning by MIT and MyShell. Audio foundation model.
 
 ### [dromara/carbon](https://github.com/dromara/carbon)
 - **Description:** A simple, semantic and developer-friendly  time  package for golang
@@ -1420,7 +1487,7 @@
 - **Description:** PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 
 ### [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
-- **Description:** Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- **Description:** Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ### [loft-sh/devpod](https://github.com/loft-sh/devpod)
 - **Description:** Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1443,7 +1510,7 @@
 ### [specialdoom/proi-ui](https://github.com/specialdoom/proi-ui)
 - **Description:** yet another Svelte ui library
 
-### [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
+### [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - **Description:** Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 
 ### [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
@@ -1582,7 +1649,7 @@
 - **Description:** 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮
 
 ### [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)
-- **Description:** RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
+- **Description:** RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
 
 ### [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack)
 - **Description:** OneinStack - A PHP/JAVA Deployment Tool
@@ -1943,7 +2010,7 @@
 - **Description:** SoftVC VITS Singing Voice Conversion
 
 ### [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- **Description:** This repo includes ChatGPT prompt curation to use ChatGPT better.
+- **Description:** This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ### [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 - **Description:** Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -2128,7 +2195,7 @@
 ### [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)
 - **Description:** 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 
-### [apache/incubator-answer](https://github.com/apache/incubator-answer)
+### [apache/answer](https://github.com/apache/answer)
 - **Description:** A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
 ### [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
@@ -2198,7 +2265,7 @@
 - **Description:** A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 
 ### [milvus-io/milvus](https://github.com/milvus-io/milvus)
-- **Description:** Milvus is a high-performance, cloud-native vector database designed to scale.
+- **Description:** Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 
 ### [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 - **Description:** A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -2667,7 +2734,7 @@
 - **Description:** The world's most flexible commerce platform.
 
 ### [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-- **Description:** ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- **Description:** Chakra UI is a component system for building products with speed ⚡️
 
 ### [streamlit/streamlit](https://github.com/streamlit/streamlit)
 - **Description:** Streamlit — A faster way to build and share data apps.
@@ -2838,7 +2905,7 @@
 - **Description:** 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 ### [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-- **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ### [vaxilu/x-ui](https://github.com/vaxilu/x-ui)
 - **Description:** 支持多协议多用户的 xray 面板
@@ -2952,7 +3019,7 @@
 - **Description:** ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
 ### [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm)
-- **Description:** A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+- **Description:** A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 
 ### [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python)
 - **Description:** pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
