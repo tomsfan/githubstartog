@@ -1,3 +1,89 @@
+### [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)
+- **Description:** Task-Aware Agent-driven Prompt Optimization Framework
+
+### [getmaxun/maxun](https://github.com/getmaxun/maxun)
+- **Description:** 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes.
+
+### [run-llama/chat-ui](https://github.com/run-llama/chat-ui)
+- **Description:** Chat UI components for LLM apps
+
+### [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
+- **Description:** 💪🏻 system monitoring on steroids
+
+### [google-research/inksight](https://github.com/google-research/inksight)
+
+### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+- **Description:** A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+
+### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+- **Description:** Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
+
+### [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark)
+- **Description:** 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and packages these AI capabilities into APIs for easy invocation. 
+
+### [opendatalab/magic-html](https://github.com/opendatalab/magic-html)
+
+### [opendatalab/magic-doc](https://github.com/opendatalab/magic-doc)
+
+### [opendatalab/LabelLLM](https://github.com/opendatalab/LabelLLM)
+- **Description:** The Open-Source Data Annotation Platform
+
+### [opendatalab/labelU](https://github.com/opendatalab/labelU)
+- **Description:** Data annotation toolbox supports image, audio and video data.
+
+### [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+- **Description:** A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+
+### [yobix-ai/extractous](https://github.com/yobix-ai/extractous)
+- **Description:** Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
+
+### [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image)
+- **Description:** This React component is used to render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook...
+
+### [cognitivetech/ollama-ebook-summary](https://github.com/cognitivetech/ollama-ebook-summary)
+- **Description:** LLM for Long Text Summary (Comprehensive Bulleted Notes)
+
+### [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit)
+- **Description:** 🤖 Beautifully designed chatbot components based on shadcn/ui
+
+### [tsenart/kth](https://github.com/tsenart/kth)
+- **Description:** Fast selection algorithms for Go
+
+### [Azzedde/paper_to_podcast](https://github.com/Azzedde/paper_to_podcast)
+- **Description:** A very quick project that transforms research papers into engaging three-person discussions, offering an intuitive and thought-provoking listening experience. Perfect for podcast enthusiasts seeking a fresh way to explore academic content.
+
+### [clipturbo/clipturbo](https://github.com/clipturbo/clipturbo)
+- **Description:** 小视频宝：AI 驱动的视频生成工具，一键生成高质量营销视频 AI-powered video generation tool for creating high-quality marketing videos with one click.
+
+### [Evil0ctal/Fast-Powerful-Whisper-AI-Services-API](https://github.com/Evil0ctal/Fast-Powerful-Whisper-AI-Services-API)
+- **Description:** ⚡ 一款用于自动语音识别 (ASR)、翻译的高性能异步 API。不需要购买Whisper API，使用本地运行的Whisper模型进行推理，并支持多GPU并发，针对分布式部署进行设计。还内置了包括TikTok、抖音等社交媒体平台的爬虫，可实现来自多个社交平台的无缝媒体处理，为媒体内容数据自动化处理提供了强大且可扩展的解决方案。
+
+### [TencentARC/ColorFlow](https://github.com/TencentARC/ColorFlow)
+- **Description:** The official implementation of paper "ColorFlow: Retrieval-Augmented Image Sequence Colorization"
+
+### [IamCreateAI/Ruyi-Models](https://github.com/IamCreateAI/Ruyi-Models)
+
+### [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator)
+- **Description:** 一键将视频转换为优质小红书笔记，自动优化内容和配图
+
+### [xiaoxiunique/x-kit](https://github.com/xiaoxiunique/x-kit)
+- **Description:** 一个用于抓取和分析 X (Twitter) 用户数据和推文的工具。
+
+### [bklieger-groq/mathtutor-on-groq](https://github.com/bklieger-groq/mathtutor-on-groq)
+- **Description:** Voice-Enabled Math Tutor Powered by Groq that Calculates and Renders Live Problems and Instruction with LaTeX in Seconds!
+
+### [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)
+- **Description:** 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
+
+### [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
+- **Description:** AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
+
+### [physicsexpert/Exlink_Tool](https://github.com/physicsexpert/Exlink_Tool)
+- **Description:** Exlink Tool是一款优雅的嵌入式多功能调试器
+
+### [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+- **Description:** Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
 ### [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 - **Description:** Open Source Alternative to Vercel, Netlify and Heroku.
 
@@ -1336,7 +1422,7 @@
 - **Description:** World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 
 ### [unitedrhino/things](https://github.com/unitedrhino/things)
-- **Description:** 联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求，支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景。支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。
+- **Description:** 联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求,适用于智能家居、智慧楼宇...
 
 ### [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
 - **Description:** Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -2001,7 +2087,7 @@
 - **Description:** 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ### [run-llama/llama_index](https://github.com/run-llama/llama_index)
-- **Description:** LlamaIndex is a data framework for your LLM applications
+- **Description:** LlamaIndex is the leading framework for building LLM-powered agents over your data.
 
 ### [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)
 - **Description:** RAG on Paul Graham's essays.
