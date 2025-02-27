@@ -1,3 +1,43 @@
+### [mojs/mojs](https://github.com/mojs/mojs)
+- **Description:** The motion graphics toolbelt for the web
+
+### [greensock/GSAP](https://github.com/greensock/GSAP)
+- **Description:** GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+
+### [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax)
+- **Description:** Lightweight, vanilla javascript parallax library
+
+### [barbajs/barba](https://github.com/barbajs/barba)
+- **Description:** Create badass, fluid and smooth transitions between your website’s pages
+
+### [zuramai/starback.js](https://github.com/zuramai/starback.js)
+- **Description:** Create a beautiful star falling background with starback.js
+
+### [7PH/powerglitch](https://github.com/7PH/powerglitch)
+- **Description:** Tiny JS library to glitch anything on the web
+
+### [mattboldt/typed.js](https://github.com/mattboldt/typed.js)
+- **Description:** A JavaScript Typing Animation Library
+
+### [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go)
+- **Description:** A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Supports providers like Azure, OpenRouter and others. 
+
+### [cloudwego/hertz](https://github.com/cloudwego/hertz)
+- **Description:** Go HTTP framework with high-performance and strong-extensibility for building micro-services.
+
+### [stepfun-ai/Step-Audio](https://github.com/stepfun-ai/Step-Audio)
+
+### [motiondivision/motion](https://github.com/motiondivision/motion)
+- **Description:** A modern animation library for React and JavaScript
+
+### [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
+
+### [ldlywt/IdeaMemo](https://github.com/ldlywt/IdeaMemo)
+- **Description:** Flash Capsule App written with Jetpack Compose.        开源Android闪念笔记App。
+
+### [casibase/casibase](https://github.com/casibase/casibase)
+- **Description:** AI Cloud OS: ⚡️Open-source RAG knowledge database with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+
 ### [feathericons/feather](https://github.com/feathericons/feather)
 - **Description:** Simply beautiful open-source icons
 
@@ -70,7 +110,7 @@
 - **Description:** Vue Forms ⚡️ Supercharged
 
 ### [appwrite/appwrite](https://github.com/appwrite/appwrite)
-- **Description:** Your backend, minus the hassle.
+- **Description:** Build like a team of hundreds_
 
 ### [caprover/caprover](https://github.com/caprover/caprover)
 - **Description:** Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -94,7 +134,7 @@
 - **Description:** Chat UI components for LLM apps
 
 ### [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
-- **Description:** 💪🏻 system monitoring on steroids
+- **Description:** 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
 ### [google-research/inksight](https://github.com/google-research/inksight)
 
@@ -102,7 +142,7 @@
 - **Description:** A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
 ### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-- **Description:** 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
+- **Description:** 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping easy again!
 
 ### [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark)
 - **Description:** 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and packages these AI capabilities into APIs for easy invocation. 
@@ -219,7 +259,7 @@
 - **Description:** Next Generation Vue UI Component Library
 
 ### [chakra-ui/zag](https://github.com/chakra-ui/zag)
-- **Description:** Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+- **Description:** Build accessible design systems and component library using finite state machines. Compatible with React, Vue, Svelte, Solid, and Preact.
 
 ### [radix-ui/themes](https://github.com/radix-ui/themes)
 - **Description:** Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
@@ -285,7 +325,7 @@
 - **Description:** ▦ Universal, standards-based auth provider.
 
 ### [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)
-- **Description:** 目前已囊括187个大模型，覆盖chatgpt、gpt-4o、o3-mini、谷歌gemini、Claude3.5、智谱GLM-Zero、文心一言、qwen-max、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及DeepSeek-R1、deepseek-v3、qwen2.5、llama3.3、phi-4、glm4、书生internLM2.5等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+- **Description:** 目前已囊括195个大模型，覆盖chatgpt、gpt-4o、o3-mini、谷歌gemini、Claude3.5、智谱GLM-Zero、文心一言、qwen-max、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及DeepSeek-R1、deepseek-v3、qwen2.5、llama3.3、phi-4、glm4、书生internLM2.5等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
 
 ### [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars)
 - **Description:** Github Starred Repositories Manager
@@ -943,7 +983,7 @@
 - **Description:** Code and resources for "FC4 : Fully Convolutional Color Constancy with Confidence-weighted Pooling" (CVPR 2017)
 
 ### [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-- **Description:** The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- **Description:** The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 
 ### [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)
 - **Description:** Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
@@ -1520,7 +1560,7 @@
 - **Description:** No-code Drag n Drop Form Builder for Svelte
 
 ### [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-- **Description:** A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- **Description:** A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ### [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
 - **Description:** shadcn/ui, but for Svelte. ✨
@@ -1608,7 +1648,7 @@
 ### [duilib/duilib](https://github.com/duilib/duilib)
 
 ### [continuedev/continue](https://github.com/continuedev/continue)
-- **Description:** ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- **Description:** ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 
 ### [juanfont/headscale](https://github.com/juanfont/headscale)
 - **Description:** An open source, self-hosted implementation of the Tailscale control server
@@ -1629,10 +1669,10 @@
 - **Description:** Leafer 是核心代码库。
 
 ### [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui)
-- **Description:** 好用的 Canvas 引擎，革新的开发体验，可用于高效绘图 、UI 交互、图形编辑。An easy-to-use Canvas engine.
+- **Description:** 好用的 Canvas 引擎，高效绘图 、UI 交互、图形编辑。A Useful Canvas Engine.
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 ### [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
 - **Description:** Fast Segment Anything
@@ -1692,7 +1732,7 @@
 - **Description:** Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 
 ### [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT)
-- **Description:** MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO。
+- **Description:** MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。
 
 ### [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - **Description:** Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -1848,7 +1888,7 @@
 - **Description:** An implementation of JOSE standards (JWE, JWS, JWT) in Go
 
 ### [nature-lang/nature](https://github.com/nature-lang/nature)
-- **Description:** 🍀 The Nature Programming Language, may you be able to experience the joy of programming.
+- **Description:** The Nature Programming Language
 
 ### [tu-lang/tu](https://github.com/tu-lang/tu)
 - **Description:** tu-lang(凸)是一种编程语言，旨在创造一种非常简单高效的-零依赖-语言(防秃)。已实现自举
@@ -2151,8 +2191,8 @@
 ### [prompt-engineering/chat-flow](https://github.com/prompt-engineering/chat-flow)
 - **Description:**  ChatFlow  - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation。ChatFlow —— 打造个性化 ChatGPT 流程，构建自动化之路 
 
-### [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
-- **Description:** GPT4 & LangChain Chatbot for large PDF docs
+### [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)
+- **Description:** LangChain & LangGraph AI PDF chatbot agent
 
 ### [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 - **Description:** Port of OpenAI's Whisper model in C/C++
@@ -2461,7 +2501,7 @@
 - **Description:** 不止于 CSS
 
 ### [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
-- **Description:** Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- **Description:** Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 ### [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 - **Description:** Badges for your personal developer branding, profile, and projects.
@@ -2508,7 +2548,7 @@
 - **Description:** 🖥️ macOS status monitoring app written in SwiftUI.
 
 ### [logto-io/logto](https://github.com/logto-io/logto)
-- **Description:** 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0.
+- **Description:** 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restrictions.
 
 ### [flet-dev/flet](https://github.com/flet-dev/flet)
 - **Description:** Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
@@ -2746,7 +2786,8 @@
 ### [alphardex/kokomi.js](https://github.com/alphardex/kokomi.js)
 - **Description:** A growing three.js helper library.
 
-### [EAimTY/tuic](https://github.com/EAimTY/tuic)
+### [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic)
+- **Description:** Delicately-TUICed 0-RTT proxy protocol
 
 ### [linebender/druid](https://github.com/linebender/druid)
 - **Description:** A data-first Rust-native UI design toolkit. 
@@ -3379,7 +3420,7 @@
 - **Description:** ESP8266 core for Arduino
 
 ### [meshtastic/firmware](https://github.com/meshtastic/firmware)
-- **Description:** Meshtastic device firmware
+- **Description:** This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 
 ### [JarenChow/Janvas](https://github.com/JarenChow/Janvas)
 - **Description:** A lightweight&simple 2D javascript library based on HTML5 Canvas.
@@ -3387,8 +3428,8 @@
 ### [gotify/server](https://github.com/gotify/server)
 - **Description:** A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 
-### [wled-dev/WLED](https://github.com/wled-dev/WLED)
-- **Description:** Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+### [wled/WLED](https://github.com/wled/WLED)
+- **Description:** Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 
 ### [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking)
 - **Description:** A simple culinary website.
