@@ -53,18 +53,23 @@ func OpenaiRequest(prompt string) string {
 		option.WithBaseURL(LLMBASEURL),
 	}
 	client := openai.NewClient(a...)
-	chatCompletion, err := client.Chat.Completions.New(context.TODO(), openai.ChatCompletionNewParams{
-		Messages: openai.F([]openai.ChatCompletionMessageParamUnion{
-			openai.UserMessage(`我有一个标过star的github库需要进行分类和标记，给出最相关的8个标记。我会给你它的的readme文件，请你分析后给出一个json结构的标签，
+	chatCompletion, err := client.Chat.Completions.New(
+		context.TODO(),
+		openai.ChatCompletionNewParams{
+			Messages: openai.F([]openai.ChatCompletionMessageParamUnion{
+				openai.UserMessage(
+					`我有一个标过star的github库需要进行分类和标记，给出最相关的8个标记。我会给你它的的readme文件，请你分析后给出一个json结构的标签，
 限制：只给出严格的json结果，其他内容比如json标签等不需要。
 输出格式严格如下
 {
   "tags": []
-}`),
-			openai.UserMessage(prompt),
-		}),
-		Model: openai.F("deepseek-chat"),
-	})
+}`,
+				),
+				openai.UserMessage(prompt),
+			}),
+			Model: openai.F("deepseek-chat"),
+		},
+	)
 	if err != nil {
 		fmt.Println(prompt)
 		return ""
