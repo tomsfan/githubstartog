@@ -129,7 +129,7 @@ const ProjectShowcase = () => {
         return Object.entries(tagFrequency)
             .sort((a, b) => b[1] - a[1])
             .slice(0, 30)
-            .map(([tag]) => tag);
+            .map(([tag]) => tag); 
     }, [tagFrequency]);
 
     // Fuzzy search setup
@@ -169,6 +169,12 @@ const ProjectShowcase = () => {
                 (b.stargazers_count || 0) - (a.stargazers_count || 0)
             );
         }
+
+	if (sortMethod === 'updated-time') {
+	    result = [...result].sort((a, b) =>
+		new Date(b.updated_at) - new Date(a.updated_at)
+	    );
+	}
 
         return result;
     }, [projects, searchTerm, selectedTags, sortMethod, fuse]);
@@ -227,6 +233,7 @@ const ProjectShowcase = () => {
                         >
                             <option value="default">Default</option>
                             <option value="stars">Star Count</option>
+                            <option value="updated-time">Updated Time</option>
                         </select>
                     </div>
                 </div>
