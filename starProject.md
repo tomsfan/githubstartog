@@ -1,3 +1,9 @@
+### [dicebear/dicebear](https://github.com/dicebear/dicebear)
+- **Description:** DiceBear is an avatar library for designers and developers. 🌍
+
+### [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator)
+- **Description:** Simple generator React app for avataaars
+
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
 - **Description:** 📧🔗🌏 短链与临时邮箱聚合平台，释放域名潜力
 
