@@ -1,6 +1,3 @@
-### [doublechaintech/scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite)
-- **Description:** 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
-
 ### [zJean001/Bilibili-Go-Backup](https://github.com/zJean001/Bilibili-Go-Backup)
 - **Description:** 据说是B站泄露的源码
 
