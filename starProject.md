@@ -1,3 +1,9 @@
+### [open-halo/halo-starter](https://github.com/open-halo/halo-starter)
+- **Description:** Next Generation Java Starter Project
+
+### [babyfish-ct/jimmer-examples](https://github.com/babyfish-ct/jimmer-examples)
+- **Description:** Jimmer Examples
+
 ### [zJean001/Bilibili-Go-Backup](https://github.com/zJean001/Bilibili-Go-Backup)
 - **Description:** 据说是B站泄露的源码
 
