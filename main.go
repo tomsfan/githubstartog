@@ -181,7 +181,6 @@ func Json2md(aiTagProcess []model.StarInfo) string {
 		md += fmt.Sprintf("### [%s](%s)\n", star.FullName, star.HtmlUrl)
 		if star.Description != nil {
 			md += fmt.Sprintf("- **Description:** %s\n", *star.Description)
-			md += fmt.Sprintf("<a href=%s target=_blank>open</a>\n", star.HtmlUrl)
 		}
 		if len(star.AI_tag.Tags) > 0 {
 			md += fmt.Sprintf("- **Tags:** %s\n", strings.Join(star.AI_tag.Tags, ", "))
