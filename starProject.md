@@ -1,3 +1,15 @@
+### [cuth/postcss-pxtorem](https://github.com/cuth/postcss-pxtorem)
+- **Description:** Convert pixel units to rem (root em) units using PostCSS
+
+### [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)
+- **Description:** A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
+
+### [wswmsword/postcss-mobile-forever](https://github.com/wswmsword/postcss-mobile-forever)
+- **Description:** PostCSS 伸缩视图转换插件。PostCSS plugin for viewport scaling. Optimized postcss-px-to-viewport/postcss-pxtorem for mobile.
+
+### [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+- **Description:**  Parse CSS and add vendor prefixes to rules by Can I Use
+
 ### [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
 - **Description:** Pentaho Data Integration ( ETL ) a.k.a Kettle
 
@@ -546,17 +558,8 @@
 ### [jdbi/jdbi](https://github.com/jdbi/jdbi)
 - **Description:** The Jdbi library provides convenient, idiomatic access to relational databases in Java and other JVM technologies such as Kotlin, Clojure or Scala.
 
-### [eugenp/tutorials](https://github.com/eugenp/tutorials)
-- **Description:** Getting Started with Spring Boot 3: 
-
-### [javaoffers/briefest](https://github.com/javaoffers/briefest)
-- **Description:** Brief's core Object/Relational Mapping functionality. SQL must be easy, business can be complex
-
 ### [dibo-software/diboot](https://github.com/dibo-software/diboot)
 - **Description:** 写的更少, 性能更好 -> 为开发人员打造的低代码开发框架，基础框架可免写90%的SQL，同时具备极强的零代码模型表单页面流程的设计能力和代码生成能力，可在pro-code、low-code、no-code之间自由选择灵活切换，全方位赋能开发。
-
-### [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
-- **Description:** The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 
 ### [h2database/h2database](https://github.com/h2database/h2database)
 - **Description:** H2 is an embeddable RDBMS written in Java.
@@ -687,59 +690,17 @@
 ### [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press)
 - **Description:** Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 
-### [Supervisor/supervisor](https://github.com/Supervisor/supervisor)
-- **Description:** Supervisor process control system for Unix (supervisord)
-
-### [leibnitz27/cfr](https://github.com/leibnitz27/cfr)
-- **Description:** This is the public repository for the CFR Java decompiler
-
 ### [skylot/jadx](https://github.com/skylot/jadx)
 - **Description:** Dex to Java decompiler
-
-### [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-- **Description:** Quarkus: Supersonic Subatomic Java. 
-
-### [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-- **Description:** Kubernetes IN Docker - local clusters for testing Kubernetes
 
 ### [WenDev/spring-boot-istio-demo](https://github.com/WenDev/spring-boot-istio-demo)
 - **Description:** 使用Spring Boot+gRPC构建微服务并部署到Istio的示例项目。
 
-### [redisson/redisson](https://github.com/redisson/redisson)
-- **Description:** Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
-
-### [kana112233/java-lock-implement](https://github.com/kana112233/java-lock-implement)
-- **Description:** implement java lock 
-
-### [nenapu/JavaLocks](https://github.com/nenapu/JavaLocks)
-- **Description:** This repository provides different lock implementation using the java wait and notify framework
-
 ### [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop)
 - **Description:** 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 
-### [doocs/leetcode](https://github.com/doocs/leetcode)
-- **Description:** 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-
-### [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
-- **Description:** 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
-
 ### [NotFound403/spring-security-oauth2-tutorial](https://github.com/NotFound403/spring-security-oauth2-tutorial)
 - **Description:** Spring Security OAuth2 Spring Authorization Server
-
-### [dynamind/spring-boot-security-oauth2-minimal](https://github.com/dynamind/spring-boot-security-oauth2-minimal)
-- **Description:** Minimal implementation of Authorization Server, Resource Server and OAuth2 Client in Spring Boot with Spring Security and JWT
-
-### [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud)
-- **Description:** Opensabre是基于SpringCloud2023的微服务开发平台，整合了Spring Security、Springcloud Alibaba等组件。  包含了基础的RBAC权限管理、授权认证、网关管理、服务治理、审计日志等系统管理基础应用。  定义了相关开发规范、风格并落地在服务框架层，开箱即用，支持Docker、Kubenetes的部署。  让项目开发人员快速进入业务开发，而不需过多时间花费在基础架构搭建和编码风格规范上。  目标是建立一套金融级、高安全性的微服务解决方案。
-
-### [mybatis/spring-boot-starter](https://github.com/mybatis/spring-boot-starter)
-- **Description:** MyBatis integration with Spring Boot
-
-### [fenixsoft/monolithic_arch_springboot](https://github.com/fenixsoft/monolithic_arch_springboot)
-- **Description:** 基于SpringBoot的单体多层架构示例工程。《凤凰架构》的配套组件。
-
-### [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
-- **Description:** 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
 ### [YingquanYuan/raw_sockets](https://github.com/YingquanYuan/raw_sockets)
 - **Description:** This is a Python implementation of a raw TCP/IP protocol stack
@@ -749,9 +710,6 @@
 
 ### [pandax381/lectcp](https://github.com/pandax381/lectcp)
 - **Description:** Tiny TCP/IP protocol stack for lectures implemented in Go language
-
-### [Sayi/poi-tl](https://github.com/Sayi/poi-tl)
-- **Description:** Generate awesome word(docx) with template
 
 ### [fuzhengwei/small-mybatis](https://github.com/fuzhengwei/small-mybatis)
 - **Description:** 在手写的过程中学习 Mybatis 从解析、绑定、反射、缓存，到回话和事务操作，以及如何与 Spring 进行关联注册 Bean 对象，完成整合部分功能逻辑。通过这些内容的拆解实现，读者伙伴就可以非常清楚的知道这些核心功能都是如何实现的了，以后再阅读 Mybatis 源码也就知道从哪开始到哪结束了。
@@ -777,28 +735,14 @@
 ### [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)
 - **Description:** 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
 
-### [takahirox/nes-js](https://github.com/takahirox/nes-js)
-- **Description:** JavaScript NES(Famicom) emulator
-
 ### [bfirsh/jsnes](https://github.com/bfirsh/jsnes)
 - **Description:** A JavaScript NES emulator.
-
-### [yinghuocho/firefly-proxy](https://github.com/yinghuocho/firefly-proxy)
-- **Description:** A proxy software to help circumventing the Great Firewall.
-
-### [Psiphon-Inc/psiphon](https://github.com/Psiphon-Inc/psiphon)
-- **Description:** Meta-repo with info about and links to Psiphon resources
 
 ### [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 - **Description:** k8s tutorials | k8s 教程
 
-### [heroku/devcenter-embedded-tomcat](https://github.com/heroku/devcenter-embedded-tomcat)
-
 ### [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 - **Description:** A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
-### [justjavac/weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search)
-- **Description:** 微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天归档。
 
 ### [alibaba/COLA](https://github.com/alibaba/COLA)
 - **Description:** 🥤 COLA: Clean Object-oriented & Layered Architecture
