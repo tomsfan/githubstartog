@@ -1,3 +1,9 @@
+### [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook)
+- **Description:** Update by evilcos, for DarkHandBook.io
+
+### [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+- **Description:** Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
+
 ### [cuth/postcss-pxtorem](https://github.com/cuth/postcss-pxtorem)
 - **Description:** Convert pixel units to rem (root em) units using PostCSS
 
