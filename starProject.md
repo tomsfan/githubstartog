@@ -1,3 +1,9 @@
+### [ZTMYO/XiaoShiLiu](https://github.com/ZTMYO/XiaoShiLiu)
+- **Description:** 一个高仿小红书的图文社区项目，支持图文发布、社交互动等核心功能，旨在提供从前端到后端的完整实践范本
+
+### [minio/minio](https://github.com/minio/minio)
+- **Description:** MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
 ### [a241978181/vue-web-os](https://github.com/a241978181/vue-web-os)
 - **Description:** 一个基于vue2.6+elementui2.13.0＋iview4的仿云桌面系统（Windows10）脚手架。桌面式web前端。
 
