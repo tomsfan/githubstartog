@@ -1,3 +1,9 @@
+### [tsejx/css-guidebook](https://github.com/tsejx/css-guidebook)
+- **Description:** 📚 CSS 知识图谱 新特性、属性、布局、响应式、动画
+
+### [FasterXML/jackson](https://github.com/FasterXML/jackson)
+- **Description:** Main Portal page for the Jackson project
+
 ### [ZTMYO/XiaoShiLiu](https://github.com/ZTMYO/XiaoShiLiu)
 - **Description:** 一个高仿小红书的图文社区项目，支持图文发布、社交互动等核心功能，旨在提供从前端到后端的完整实践范本
 
