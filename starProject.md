@@ -1,3 +1,15 @@
+### [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)
+- **Description:** 好用的Vue低代码可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。支持PC端和移动端，目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+
+### [xy-sea/web-see](https://github.com/xy-sea/web-see)
+- **Description:** 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据
+
+### [un-pany/mobvue](https://github.com/un-pany/mobvue)
+- **Description:** 📱 A crafted Vue3 mobile template | Vue Mobile | Vue H5 | Vue Vant | Vue3 Mobile | Vue3 H5 | Vue3 Vant | Vue 移动端模板 | Vue3 移动端模板
+
+### [animate-css/animate.css](https://github.com/animate-css/animate.css)
+- **Description:** 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+
 ### [tsejx/css-guidebook](https://github.com/tsejx/css-guidebook)
 - **Description:** 📚 CSS 知识图谱 新特性、属性、布局、响应式、动画
 
