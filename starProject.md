@@ -333,7 +333,7 @@
 - **Description:** real time face swap and one-click video deepfake with only a single image
 
 ### [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)
-- **Description:** Java version of LangChain
+- **Description:** LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 
 ### [kylixs/javaxyq](https://github.com/kylixs/javaxyq)
 - **Description:** Pure java 2D turn-based RPG
