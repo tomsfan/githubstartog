@@ -1,3 +1,14 @@
+### [alibaba/kt-connect](https://github.com/alibaba/kt-connect)
+- **Description:** A toolkit for Integrating with your kubernetes dev environment more efficiently
+
+### [ChaosNyaruko/blog_os](https://github.com/ChaosNyaruko/blog_os)
+
+### [nocalhost/nocalhost](https://github.com/nocalhost/nocalhost)
+- **Description:** Nocalhost is Cloud Native Dev Environment.
+
+### [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres)
+- **Description:** Vue 3 + TresJS integration for Three.js 3D graphics. [tvt.js tres.js three.js vue3 ts]
+
 ### [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)
 - **Description:** 好用的Vue低代码可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。支持PC端和移动端，目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 
@@ -475,7 +486,7 @@
 - **Description:** SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
 
 ### [isno/theByteBook](https://github.com/isno/theByteBook)
-- **Description:** ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+- **Description:** ⭐ 【出版书籍】京东购买链接 https://item.jd.com/10183653901041.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 
 ### [xieyuheng/x-editor](https://github.com/xieyuheng/x-editor)
 - **Description:** A text editor embedded in the browser, while still can edit your local files. | Preview Markdown | View image | Listen audio | Watch video
