@@ -436,7 +436,7 @@
 - **Description:** 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
 
 ### [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)
-- **Description:** Host management and monitoring tools
+- **Description:** Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记
 
 ### [SmallTeddyGames/e-card](https://github.com/SmallTeddyGames/e-card)
 - **Description:** E-Card mini-game imitating "Gambling Apocalypse"
