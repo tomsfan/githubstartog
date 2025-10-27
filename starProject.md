@@ -1,3 +1,9 @@
+### [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
+- **Description:** clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+
+### [lakernote/easy-postman](https://github.com/lakernote/easy-postman)
+- **Description:** 🚀 An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
+
 ### [dtm-labs/dtm](https://github.com/dtm-labs/dtm)
 - **Description:** A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 
