@@ -1,7 +1,7 @@
 ### [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 - **Description:** clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
-### [lakernote/easy-postman](https://github.com/lakernote/easy-postman)
+### [lakernote/EasyPostman](https://github.com/lakernote/EasyPostman)
 - **Description:** 🚀 An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
 
 ### [dtm-labs/dtm](https://github.com/dtm-labs/dtm)
@@ -258,7 +258,7 @@
 - **Description:** Yoga is an embeddable layout engine targeting web standards.
 
 ### [ccfos/nightingale](https://github.com/ccfos/nightingale)
-- **Description:** Nightingale for monitoring and alerting, just as Grafana for visualization.
+- **Description:** Nightingale is to monitoring and alerting what Grafana is to visualization.
 
 ### [tmeseoi/telegram.github.io](https://github.com/tmeseoi/telegram.github.io)
 - **Description:** telegram群组，TG群组，电报群组
@@ -404,7 +404,7 @@
 - **Description:** A Windows implementation of the SpaceFN keyboard layout.
 
 ### [oiov/vmail](https://github.com/oiov/vmail)
-- **Description:** 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持多域名后缀，密码找回。
+- **Description:** 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
 
 ### [geektutu/7days-golang](https://github.com/geektutu/7days-golang)
 - **Description:** 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
@@ -660,7 +660,7 @@
 - **Description:** A JavaScript implementation of Git.
 
 ### [opensolon/solon](https://github.com/opensolon/solon)
-- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spring)
+- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java25. (Replaceable spring)
 
 ### [HouQiming/zju_game_course](https://github.com/HouQiming/zju_game_course)
 - **Description:** Teaching materials for the Zhejiang University game programming course
