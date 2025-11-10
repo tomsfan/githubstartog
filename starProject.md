@@ -1,3 +1,9 @@
+### [InvertGeek/MixGram](https://github.com/InvertGeek/MixGram)
+- **Description:** 基于 Git 协议的安卓聊天 APP,真正的端到端加密聊天
+
+### [nocobase/nocobase](https://github.com/nocobase/nocobase)
+- **Description:** NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+
 ### [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 - **Description:** clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
@@ -660,7 +666,7 @@
 - **Description:** A JavaScript implementation of Git.
 
 ### [opensolon/solon](https://github.com/opensolon/solon)
-- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java25. (Replaceable spring)
+- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java25; Supports LTS. (Replaceable spring)
 
 ### [HouQiming/zju_game_course](https://github.com/HouQiming/zju_game_course)
 - **Description:** Teaching materials for the Zhejiang University game programming course
