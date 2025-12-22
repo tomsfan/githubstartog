@@ -1,3 +1,8 @@
+### [mohanson/accu](https://github.com/mohanson/accu)
+- **Description:** Mohanson's Blog
+
+### [Jstrom2022/aiVideo](https://github.com/Jstrom2022/aiVideo)
+
 ### [InvertGeek/MixGram](https://github.com/InvertGeek/MixGram)
 - **Description:** 基于 Git 协议的安卓聊天 APP,真正的端到端加密聊天
 
@@ -85,7 +90,7 @@
 - **Description:** Writing an OS in 1,000 lines.
 
 ### [sankeyangshu/lemon-template-vue](https://github.com/sankeyangshu/lemon-template-vue)
-- **Description:** An mobile web apps template based on the Vue 3 ecosystem. 🎉 一个基于 Vue 3 生态系统的移动 web 应用模板。
+- **Description:** A mobile web apps template based on the Vue 3 ecosystem. 🎉 一个基于 Vue 3 生态系统的移动 web 应用模板。
 
 ### [dockur/windows](https://github.com/dockur/windows)
 - **Description:** Windows inside a Docker container.
@@ -786,10 +791,10 @@
 - **Description:** <<自己动手写docker>> 源码
 
 ### [DerekYRC/mini-spring-cloud](https://github.com/DerekYRC/mini-spring-cloud)
-- **Description:** mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。
+- **Description:** mini-spring-cloud is a simplified version of the Spring Cloud framework that helps you quickly familiarize yourself with Spring Cloud source code and master its core principles. While preserving Spring Cloud's core functionality, the code is streamlined as much as possible. 
 
 ### [DerekYRC/mini-spring](https://github.com/DerekYRC/mini-spring)
-- **Description:** mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。 
+- **Description:** mini-spring is a simplified version of the Spring framework that helps you quickly familiarize yourself with Spring source code and master Spring's core principles. It extracts Spring's core logic with extremely simplified code while preserving Spring's core functionality.
 
 ### [fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring)
 - **Description:** 🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。
