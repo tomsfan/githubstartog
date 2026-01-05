@@ -89,7 +89,7 @@
 ### [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
 - **Description:** Writing an OS in 1,000 lines.
 
-### [sankeyangshu/lemon-template-vue](https://github.com/sankeyangshu/lemon-template-vue)
+### [sankeyangshu/lemon-mobile-vue](https://github.com/sankeyangshu/lemon-mobile-vue)
 - **Description:** A mobile web apps template based on the Vue 3 ecosystem. 🎉 一个基于 Vue 3 生态系统的移动 web 应用模板。
 
 ### [dockur/windows](https://github.com/dockur/windows)
