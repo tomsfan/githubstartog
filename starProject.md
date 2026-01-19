@@ -1,3 +1,6 @@
+### [likaia/nginxpulse](https://github.com/likaia/nginxpulse)
+- **Description:** 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
+
 ### [mohanson/accu](https://github.com/mohanson/accu)
 - **Description:** Mohanson's Blog
 
@@ -316,7 +319,7 @@
 - **Description:** 🔎 Open source distributed and RESTful search engine.
 
 ### [gorse-io/gorse](https://github.com/gorse-io/gorse)
-- **Description:** Gorse open source recommender system engine
+- **Description:** Gorse open source recommender system engine supports multimodal content via embedding
 
 ### [open-rec/rec-algorithm](https://github.com/open-rec/rec-algorithm)
 
