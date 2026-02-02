@@ -214,7 +214,7 @@
 ### [deft-ui/deft](https://github.com/deft-ui/deft)
 - **Description:** Build cross-platform applications with Rust and JavaScript
 
-### [mohanson/pxsol](https://github.com/mohanson/pxsol)
+### [libraries/pxsol](https://github.com/libraries/pxsol)
 - **Description:** Pxsol is a project that aims to provide human-friendly interfaces for common solana operations.
 
 ### [timerring/bilive](https://github.com/timerring/bilive)
@@ -319,7 +319,7 @@
 - **Description:** 🔎 Open source distributed and RESTful search engine.
 
 ### [gorse-io/gorse](https://github.com/gorse-io/gorse)
-- **Description:** Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- **Description:** AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 
 ### [open-rec/rec-algorithm](https://github.com/open-rec/rec-algorithm)
 
