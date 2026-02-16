@@ -304,7 +304,7 @@
 - **Description:** 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
+- **Description:** 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
 
 ### [wangyuan389/yunda](https://github.com/wangyuan389/yunda)
 - **Description:** 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
@@ -418,7 +418,7 @@
 - **Description:** A Windows implementation of the SpaceFN keyboard layout.
 
 ### [oiov/vmail](https://github.com/oiov/vmail)
-- **Description:** 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
+- **Description:** 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
 
 ### [geektutu/7days-golang](https://github.com/geektutu/7days-golang)
 - **Description:** 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
@@ -605,7 +605,7 @@
 - **Description:** Writing SQL using Java syntax
 
 ### [Tencent/APIJSON](https://github.com/Tencent/APIJSON)
-- **Description:** 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+- **Description:** 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 
 ### [yahoo/elide](https://github.com/yahoo/elide)
 - **Description:** Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort.
