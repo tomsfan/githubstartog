@@ -16,7 +16,7 @@
 - **Description:** clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
 ### [lakernote/EasyPostman](https://github.com/lakernote/EasyPostman)
-- **Description:** 🚀 An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
+- **Description:** An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
 
 ### [dtm-labs/dtm](https://github.com/dtm-labs/dtm)
 - **Description:** A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -304,7 +304,7 @@
 - **Description:** 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+- **Description:** 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 
 ### [wangyuan389/yunda](https://github.com/wangyuan389/yunda)
 - **Description:** 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
