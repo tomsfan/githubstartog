@@ -1,3 +1,6 @@
+### [Xiangyu-CAS/xiaohongshu-ops-skill](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill)
+- **Description:** Openclaw 自动运营小红书，自动发布、回复、爆款复刻，基于浏览器自动化风险低 🎯 让AI帮你运营自媒体副业吧！
+
 ### [likaia/nginxpulse](https://github.com/likaia/nginxpulse)
 - **Description:** 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
 
@@ -117,7 +120,7 @@
 - **Description:** :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** 【AI低代码平台】AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
+- **Description:** 【AI低代码平台】“低代码+零代码”双模驱动AI智能平台  AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
 
 ### [graalvm/graal-languages-demos](https://github.com/graalvm/graal-languages-demos)
 - **Description:** Graal Languages - Demos and Guides
@@ -550,7 +553,7 @@
 - **Description:** Beanshell scripting language
 
 ### [mylxsw/aidea](https://github.com/mylxsw/aidea)
-- **Description:** AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+- **Description:** An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.
 
 ### [ballcat-projects/ballcat-codegen](https://github.com/ballcat-projects/ballcat-codegen)
 - **Description:** 🛠 一款支持在线修改模板的代码生成器
