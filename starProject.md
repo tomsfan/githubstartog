@@ -349,7 +349,7 @@
 ### [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar)
 
 ### [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM)
-- **Description:** More than just IM 不只是即时通讯( IM )
+- **Description:** More than just IM 不只是即时通讯(IM)
 
 ### [Kirhhoff/mini-docker](https://github.com/Kirhhoff/mini-docker)
 - **Description:** illustrate what docker really is in 100 lines of C/C++
@@ -394,7 +394,7 @@
 - **Description:** 30天自制C++服务器，包含教程和源代码
 
 ### [sunface/rust-course](https://github.com/sunface/rust-course)
-- **Description:** “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
+- **Description:** 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
 
 ### [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 - **Description:** Standard Go Project Layout
@@ -443,16 +443,13 @@
 ### [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 - **Description:** A utility-first CSS framework for rapid UI development.
 
-### [xun082/create-neat](https://github.com/xun082/create-neat)
-- **Description:** 🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.
-
 ### [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 - **Description:** Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ### [xiancloud/im](https://github.com/xiancloud/im)
 - **Description:** 怎么写一个靠谱的im
 
-### [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+### [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
 - **Description:** UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 ### [dromara/Sa-Token](https://github.com/dromara/Sa-Token)
