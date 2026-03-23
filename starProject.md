@@ -1,5 +1,11 @@
+### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- **Description:** Master programming by recreating your favorite technologies from scratch.
+
+### [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+- **Description:** Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+
 ### [Xiangyu-CAS/xiaohongshu-ops-skill](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill)
-- **Description:** Openclaw 自动运营小红书，自动发布、回复、爆款复刻，基于浏览器自动化风险低 🎯 让AI帮你运营自媒体副业吧！
+- **Description:** 把Openclaw 变成小红书运营助手，帮你分析、选题、创作、复盘、复刻，甚至全面托管 
 
 ### [likaia/nginxpulse](https://github.com/likaia/nginxpulse)
 - **Description:** 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
@@ -120,7 +126,7 @@
 - **Description:** :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** 【AI低代码平台】“低代码+零代码”双模驱动AI智能平台  AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
+- **Description:** 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 
 ### [graalvm/graal-languages-demos](https://github.com/graalvm/graal-languages-demos)
 - **Description:** Graal Languages - Demos and Guides
@@ -412,7 +418,7 @@
 - **Description:** 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
 ### [styled-components/styled-components](https://github.com/styled-components/styled-components)
-- **Description:** Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- **Description:** Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 
 ### [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)
 - **Description:** A natural language interface for computers
