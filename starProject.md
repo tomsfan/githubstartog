@@ -39,7 +39,7 @@
 - **Description:** Nocalhost is Cloud Native Dev Environment.
 
 ### [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres)
-- **Description:** Vue 3 + TresJS integration for Three.js 3D graphics. [tvt.js tres.js three.js vue3 ts]
+- **Description:** 🎉一款让你的三维可视化项目快速落地的开源框架，天然具备良好的跨平台与🎊国产化适配能力 支持低代码编辑器、Web / 小程序 / App 全端部署，永久免费商用。 融合数字孪生、三维可视化（WebGL / WebGPU / three.js / tres.js / tvt.js），并扩展 AI 能力（Skills / OpenSpec），助力智能化场景快速构建 🚀
 
 ### [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)
 - **Description:** 好用的Vue低代码可视化 AI 表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。支持PC端和移动端，目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
@@ -173,7 +173,7 @@
 - **Description:** A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ### [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud)
-- **Description:** ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+- **Description:** ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 ### [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin)
 - **Description:** 消息推送平台🔥 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
@@ -292,7 +292,7 @@
 ### [wine-mirror/wine](https://github.com/wine-mirror/wine)
 
 ### [caorushizi/mediago](https://github.com/caorushizi/mediago)
-- **Description:** 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with desktop clients for Windows and Mac.
+- **Description:** Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
 
 ### [totara/totara-docker-dev](https://github.com/totara/totara-docker-dev)
 - **Description:** A docker setup to create a development environment for Totara Learn
@@ -313,7 +313,7 @@
 - **Description:** 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+- **Description:** 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
 
 ### [wangyuan389/yunda](https://github.com/wangyuan389/yunda)
 - **Description:** 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
