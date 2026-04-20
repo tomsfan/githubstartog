@@ -66,7 +66,7 @@
 - **Description:** MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
 ### [a241978181/vue-web-os](https://github.com/a241978181/vue-web-os)
-- **Description:** 一个基于vue2.6+elementui2.13.0＋iview4的仿云桌面系统（Windows10）脚手架。桌面式web前端。
+- **Description:** 一个基于 Vue 2.6 + Element UI 2.15.14 的仿 Windows 10 云桌面脚手架系统。项目已完成权限模块、登录验证模块、Axios 请求模块、内置介绍文档、国际化（i18n）等常用功能模块，可用于开发中大型 Web 应用。
 
 ### [tinymce/tinymce](https://github.com/tinymce/tinymce)
 - **Description:** The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
@@ -292,7 +292,7 @@
 ### [wine-mirror/wine](https://github.com/wine-mirror/wine)
 
 ### [caorushizi/mediago](https://github.com/caorushizi/mediago)
-- **Description:** Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- **Description:** Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 
 ### [totara/totara-docker-dev](https://github.com/totara/totara-docker-dev)
 - **Description:** A docker setup to create a development environment for Totara Learn
@@ -376,7 +376,7 @@
 - **Description:** real time face swap and one-click video deepfake with only a single image
 
 ### [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)
-- **Description:** LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
+- **Description:** LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
 
 ### [kylixs/javaxyq](https://github.com/kylixs/javaxyq)
 - **Description:** Pure java 2D turn-based RPG
@@ -408,7 +408,7 @@
 ### [doocs/jvm](https://github.com/doocs/jvm)
 - **Description:** 🤗 JVM 底层原理最全知识总结
 
-### [valueriver/AutoSite](https://github.com/valueriver/AutoSite)
+### [valueriver/AUTOSITE](https://github.com/valueriver/AUTOSITE)
 - **Description:** AutoSite 是一个由人工智能驱动的自动化网站机器人项目。该项目旨在通过利用 OpenAI 的 GPT-4 模型来理解用户需求，自动编写代码，并完成网站的部署和发布。
 
 ### [lerna/lerna](https://github.com/lerna/lerna)
