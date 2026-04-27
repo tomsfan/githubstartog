@@ -408,7 +408,7 @@
 ### [doocs/jvm](https://github.com/doocs/jvm)
 - **Description:** 🤗 JVM 底层原理最全知识总结
 
-### [valueriver/AUTOSITE](https://github.com/valueriver/AUTOSITE)
+### [valueriver/auto-site](https://github.com/valueriver/auto-site)
 - **Description:** AutoSite 是一个由人工智能驱动的自动化网站机器人项目。该项目旨在通过利用 OpenAI 的 GPT-4 模型来理解用户需求，自动编写代码，并完成网站的部署和发布。
 
 ### [lerna/lerna](https://github.com/lerna/lerna)
