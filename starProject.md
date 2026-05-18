@@ -126,7 +126,7 @@
 - **Description:** :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
+- **Description:** AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 
 ### [graalvm/graal-languages-demos](https://github.com/graalvm/graal-languages-demos)
 - **Description:** Graal Languages - Demos and Guides
@@ -208,7 +208,7 @@
 ### [themesberg/neumorphism-ui-bootstrap](https://github.com/themesberg/neumorphism-ui-bootstrap)
 - **Description:** Neumorphism inspired UI Kit: web components, sections and pages in neumorphic style built with Bootstrap CSS Framework
 
-### [xjh22222228/ethers-tutorial](https://github.com/xjh22222228/ethers-tutorial)
+### [liuzi6612/ethers-tutorial](https://github.com/liuzi6612/ethers-tutorial)
 - **Description:** Ethers.js web3快速入门教程；Ethers.js web3 Beginner's Tutorial
 
 ### [MyDailyCloud/ServerStatus](https://github.com/MyDailyCloud/ServerStatus)
@@ -408,7 +408,7 @@
 ### [doocs/jvm](https://github.com/doocs/jvm)
 - **Description:** 🤗 JVM 底层原理最全知识总结
 
-### [valueriver/auto-site](https://github.com/valueriver/auto-site)
+### [realuckyang/auto-site](https://github.com/realuckyang/auto-site)
 - **Description:** AutoSite 是一个由人工智能驱动的自动化网站机器人项目。该项目旨在通过利用 OpenAI 的 GPT-4 模型来理解用户需求，自动编写代码，并完成网站的部署和发布。
 
 ### [lerna/lerna](https://github.com/lerna/lerna)
