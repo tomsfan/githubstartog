@@ -119,8 +119,8 @@
 ### [wwwlike/vlife](https://github.com/wwwlike/vlife)
 - **Description:** 上手简单，无需前端开发的准零代码平台，做轻流/明道本地化的平替产品。
 
-### [pingapi/crabc-api](https://github.com/pingapi/crabc-api)
-- **Description:** Crabc是低代码开发平台，企业级API接口发布系统，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
+### [pingapi/apigo](https://github.com/pingapi/apigo)
+- **Description:** ApiGo是低代码开发平台，企业级API接口发布系统，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
 
 ### [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)
 - **Description:** :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
