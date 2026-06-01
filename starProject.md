@@ -126,7 +126,7 @@
 - **Description:** :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
+- **Description:** AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 
 ### [graalvm/graal-languages-demos](https://github.com/graalvm/graal-languages-demos)
 - **Description:** Graal Languages - Demos and Guides
@@ -382,7 +382,7 @@
 - **Description:** Pure java 2D turn-based RPG
 
 ### [socketio/socket.io](https://github.com/socketio/socket.io)
-- **Description:** Realtime application framework (Node.JS server)
+- **Description:** Bidirectional and low-latency communication for every platform
 
 ### [mybatis/mybatis-dynamic-sql](https://github.com/mybatis/mybatis-dynamic-sql)
 - **Description:** SQL DSL (Domain Specific Language) for Kotlin and Java. Supports rendering for MyBatis or Spring JDBC Templates
@@ -400,7 +400,7 @@
 - **Description:** 30天自制C++服务器，包含教程和源代码
 
 ### [sunface/rust-course](https://github.com/sunface/rust-course)
-- **Description:** 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
+- **Description:** 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
 
 ### [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 - **Description:** Standard Go Project Layout
@@ -619,7 +619,7 @@
 ### [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy)
 - **Description:** 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 
-### [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
+### [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
 - **Description:** AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 ### [apache/derby](https://github.com/apache/derby)
