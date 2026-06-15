@@ -277,7 +277,7 @@
 ### [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer)
 - **Description:** The most advanced ORM of JVM, for both java & kotlin
 
-### [facebook/yoga](https://github.com/facebook/yoga)
+### [react/yoga](https://github.com/react/yoga)
 - **Description:** Yoga is an embeddable layout engine targeting web standards.
 
 ### [ccfos/nightingale](https://github.com/ccfos/nightingale)
@@ -291,7 +291,7 @@
 
 ### [wine-mirror/wine](https://github.com/wine-mirror/wine)
 
-### [caorushizi/mediago](https://github.com/caorushizi/mediago)
+### [mediago-dev/mediago](https://github.com/mediago-dev/mediago)
 - **Description:** Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 
 ### [totara/totara-docker-dev](https://github.com/totara/totara-docker-dev)
@@ -420,8 +420,8 @@
 ### [styled-components/styled-components](https://github.com/styled-components/styled-components)
 - **Description:** Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 
-### [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)
-- **Description:** A natural language interface for computers
+### [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
+- **Description:** A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 ### [lydell/spacefn-win](https://github.com/lydell/spacefn-win)
 - **Description:** A Windows implementation of the SpaceFN keyboard layout.
