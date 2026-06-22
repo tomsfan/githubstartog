@@ -1,3 +1,17 @@
+### [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
+- **Description:** Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.
+
+### [aruis/codex-cookbook](https://github.com/aruis/codex-cookbook)
+- **Description:** Codex prompt cookbook and collaboration templates
+
+### [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)
+
+### [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)
+- **Description:** AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn
+
+### [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn)
+- **Description:** Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
+
 ### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - **Description:** Master programming by recreating your favorite technologies from scratch.
 
@@ -712,7 +726,7 @@
 ### [apache/incubator-seata-samples](https://github.com/apache/incubator-seata-samples)
 - **Description:** Apache Seata(incubating) Samples for Java
 
-### [matevip/matecloud](https://github.com/matevip/matecloud)
+### [mateaix/matecloud](https://github.com/mateaix/matecloud)
 - **Description:** 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 2.7.0、 Spring Cloud 2021、Spring Cloud Alibaba 2021、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 
 ### [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform)
