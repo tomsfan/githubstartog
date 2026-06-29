@@ -1,3 +1,6 @@
+### [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+- **Description:** AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+
 ### [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
 - **Description:** Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.
 
@@ -201,7 +204,7 @@
 ### [jfinal/jfinal](https://github.com/jfinal/jfinal)
 - **Description:** JAVA WEB + ORM Framework
 
-### [solana-developers/program-examples](https://github.com/solana-developers/program-examples)
+### [solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)
 - **Description:** A repository of Solana program examples
 
 ### [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
@@ -324,7 +327,7 @@
 - **Description:** 💬 A Simple, Safe Comment System
 
 ### [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi)
-- **Description:** 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
+- **Description:** 🚀 现代化、开源的K8s 面板，1Panel 官方出品。
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
@@ -529,7 +532,7 @@
 - **Description:** SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
 
 ### [isno/theByteBook](https://github.com/isno/theByteBook)
-- **Description:** ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
+- **Description:** ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的“大规模分布式系统”开发指南。
 
 ### [xieyuheng/x-editor](https://github.com/xieyuheng/x-editor)
 - **Description:** A text editor embedded in the browser, while still can edit your local files. | Preview Markdown | View image | Listen audio | Watch video
@@ -682,7 +685,7 @@
 - **Description:** 学习netty，仿写netty，手写netty
 
 ### [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp)
-- **Description:** 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
+- **Description:** A lightweight dynamic thread pool framework with built-in monitoring and alerting, unified third-party thread pool management, and support for popular configuration centers (Nacos, Apollo, Zookeeper, Consul, and Etcd), extensible via SPI。
 
 ### [thulab/iotdb-jdbc](https://github.com/thulab/iotdb-jdbc)
 - **Description:** Jdbc connection implementation for IoTDB
@@ -727,7 +730,7 @@
 - **Description:** Apache Seata(incubating) Samples for Java
 
 ### [mateaix/matecloud](https://github.com/mateaix/matecloud)
-- **Description:** 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 2.7.0、 Spring Cloud 2021、Spring Cloud Alibaba 2021、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
+- **Description:** 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 Spring Cloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 
 ### [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform)
 - **Description:** 🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新
