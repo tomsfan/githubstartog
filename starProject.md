@@ -285,7 +285,7 @@
 ### [botoxparty/XP.css](https://github.com/botoxparty/XP.css)
 - **Description:** A CSS framework for building faithful recreations of operating system GUIs.
 
-### [LayoutitStudio/layoutit-grid](https://github.com/LayoutitStudio/layoutit-grid)
+### [layoutit/layoutit-grid](https://github.com/layoutit/layoutit-grid)
 - **Description:** Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 
 ### [pig-mesh/spring-cloud-pig-mesh](https://github.com/pig-mesh/spring-cloud-pig-mesh)
@@ -424,9 +424,6 @@
 
 ### [doocs/jvm](https://github.com/doocs/jvm)
 - **Description:** 🤗 JVM 底层原理最全知识总结
-
-### [realuckyang/auto-site](https://github.com/realuckyang/auto-site)
-- **Description:** AutoSite 是一个由人工智能驱动的自动化网站机器人项目。该项目旨在通过利用 OpenAI 的 GPT-4 模型来理解用户需求，自动编写代码，并完成网站的部署和发布。
 
 ### [lerna/lerna](https://github.com/lerna/lerna)
 - **Description:** Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -730,7 +727,7 @@
 - **Description:** Apache Seata(incubating) Samples for Java
 
 ### [mateaix/matecloud](https://github.com/mateaix/matecloud)
-- **Description:** 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 Spring Cloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
+- **Description:** 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 
 ### [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform)
 - **Description:** 🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新
