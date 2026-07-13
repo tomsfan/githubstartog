@@ -143,7 +143,7 @@
 - **Description:** :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
+- **Description:** 【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
 
 ### [graalvm/graal-languages-demos](https://github.com/graalvm/graal-languages-demos)
 - **Description:** Graal Languages - Demos and Guides
@@ -327,7 +327,7 @@
 - **Description:** 💬 A Simple, Safe Comment System
 
 ### [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi)
-- **Description:** 🚀 现代化、开源的K8s 面板，1Panel 官方出品。
+- **Description:** 🚀 现代化、开源的 K8s 面板，1Panel 官方出品。
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
@@ -736,7 +736,7 @@
 - **Description:** A lightweight relational database implementation in kotlin.
 
 ### [btraceio/btrace](https://github.com/btraceio/btrace)
-- **Description:** BTrace - a safe, dynamic tracing tool for the Java platform
+- **Description:** Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation.
 
 ### [xiaojiaqi/deploy-microservices-to-a-Kubernetes-cluster](https://github.com/xiaojiaqi/deploy-microservices-to-a-Kubernetes-cluster)
 - **Description:** 如何将微服务部署在kubernetes集群之上
