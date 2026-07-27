@@ -143,7 +143,7 @@
 - **Description:** :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** 【低代码 V2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
+- **Description:** 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
 
 ### [graalvm/graal-languages-demos](https://github.com/graalvm/graal-languages-demos)
 - **Description:** Graal Languages - Demos and Guides
@@ -387,7 +387,7 @@
 - **Description:** µGUI - Open Source GUI module for embedded systems
 
 ### [lvgl/lvgl](https://github.com/lvgl/lvgl)
-- **Description:** Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. 
+- **Description:** LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 
 ### [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - **Description:** real time face swap and one-click video deepfake with only a single image
@@ -579,7 +579,7 @@
 - **Description:** Redis embedded server for Java integration testing
 
 ### [smart-cloud/smart-cloud](https://github.com/smart-cloud/smart-cloud)
-- **Description:** 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言、接口监控及服务监控等
+- **Description:** 一站式 Spring Cloud 微服务脚手架 —— 让微服务开发像搭积木一样简单。支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言、接口监控及服务监控等
 
 ### [vueuse/vueuse](https://github.com/vueuse/vueuse)
 - **Description:** Collection of essential Vue Composition Utilities for Vue 3
@@ -634,7 +634,7 @@
 - **Description:** 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 
 ### [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
-- **Description:** AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- **Description:** 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 ### [apache/derby](https://github.com/apache/derby)
 - **Description:** Mirror of Apache Derby
