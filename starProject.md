@@ -41,7 +41,7 @@
 ### [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 - **Description:** clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
-### [lakernote/EasyPostman](https://github.com/lakernote/EasyPostman)
+### [lakernote/easy-postman](https://github.com/lakernote/easy-postman)
 - **Description:** An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
 
 ### [dtm-labs/dtm](https://github.com/dtm-labs/dtm)
@@ -408,7 +408,7 @@
 - **Description:** A simple HTML5, YouTube and Vimeo player
 
 ### [alibaba/tengine](https://github.com/alibaba/tengine)
-- **Description:** A distribution of Nginx with some advanced features
+- **Description:** A high-performance web server and reverse proxy, 100% compatible with nginx.
 
 ### [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 - **Description:** 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
@@ -694,7 +694,7 @@
 - **Description:** A JavaScript implementation of Git.
 
 ### [opensolon/solon](https://github.com/opensolon/solon)
-- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java25; Supports LTS. (Replaceable spring)
+- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java26; Supports LTS. (Replaceable spring)
 
 ### [HouQiming/zju_game_course](https://github.com/HouQiming/zju_game_course)
 - **Description:** Teaching materials for the Zhejiang University game programming course
