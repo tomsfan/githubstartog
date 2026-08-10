@@ -1,3 +1,15 @@
+### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
+- **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+- **Description:** Translate the video from one language to another and embed dubbing & subtitles.
+
+### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+- **Description:** 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+
+### [linuxscreen/duo-translator](https://github.com/linuxscreen/duo-translator)
+- **Description:** AI translation & writing  assistant
+
 ### [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
 - **Description:** AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
 
@@ -330,7 +342,7 @@
 - **Description:** 🚀 现代化、开源的 K8s 面板，1Panel 官方出品。
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
+- **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 
 ### [wangyuan389/yunda](https://github.com/wangyuan389/yunda)
 - **Description:** 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
