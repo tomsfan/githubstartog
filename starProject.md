@@ -1,32 +1,3 @@
-### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
-- **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
-- **Description:** Translate the video from one language to another and embed dubbing & subtitles.
-
-### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-- **Description:** 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
-
-### [linuxscreen/duo-translator](https://github.com/linuxscreen/duo-translator)
-- **Description:** AI translation & writing  assistant
-
-### [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
-- **Description:** AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-
-### [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
-- **Description:** Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.
-
-### [aruis/codex-cookbook](https://github.com/aruis/codex-cookbook)
-- **Description:** Codex prompt cookbook and collaboration templates
-
-### [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)
-
-### [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)
-- **Description:** AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn
-
-### [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn)
-- **Description:** Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
-
 ### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - **Description:** Master programming by recreating your favorite technologies from scratch.
 
@@ -646,7 +617,7 @@
 - **Description:** 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 
 ### [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
-- **Description:** 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- **Description:** Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
 
 ### [apache/derby](https://github.com/apache/derby)
 - **Description:** Mirror of Apache Derby
