@@ -1,3 +1,6 @@
+### [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+- **Description:** Notes of the book System Desgin Interview - An Insider's Guide
+
 ### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - **Description:** Master programming by recreating your favorite technologies from scratch.
 
@@ -688,7 +691,7 @@
 ### [fuxichen/drag-component-area](https://github.com/fuxichen/drag-component-area)
 - **Description:** 一个组件拖动插件
 
-### [gabrielpulga/spring-boot-websocket](https://github.com/gabrielpulga/spring-boot-websocket)
+### [gpulga/spring-boot-websocket](https://github.com/gpulga/spring-boot-websocket)
 - **Description:** A Spring Boot chat application that was made using WebSocket Protocol and Maven as project manager.
 
 ### [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
