@@ -1,3 +1,15 @@
+### [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
+- **Description:** Example apps for the Apps SDK
+
+### [google/styleguide](https://github.com/google/styleguide)
+- **Description:** Style guides for Google-originated open-source projects
+
+### [alibaba/Alibaba-Java-Coding-Guidelines](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines)
+- **Description:** Gitbook for AJCG
+
+### [f2e-journey/treasure](https://github.com/f2e-journey/treasure)
+- **Description:** 互联网时代前端"手工艺人"的百宝箱
+
 ### [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
 - **Description:** Notes of the book System Desgin Interview - An Insider's Guide
 
@@ -421,7 +433,7 @@
 - **Description:** Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 
 ### [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
-- **Description:** A coding agent for open models like Kimi K3
+- **Description:** A coding agent for open models like Kimi K3 and GLM 5.3
 
 ### [lydell/spacefn-win](https://github.com/lydell/spacefn-win)
 - **Description:** A Windows implementation of the SpaceFN keyboard layout.
