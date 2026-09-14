@@ -1,3 +1,12 @@
+### [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+- **Description:** World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+### [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)
+- **Description:** Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
+
+### [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
+- **Description:** Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
+
 ### [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
 - **Description:** Example apps for the Apps SDK
 
@@ -725,7 +734,7 @@
 - **Description:** Apache Seata(incubating) Samples for Java
 
 ### [mateaix/matecloud](https://github.com/mateaix/matecloud)
-- **Description:** 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
+- **Description:** 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.8、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring AI 2.0.1、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 
 ### [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform)
 - **Description:** 🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新
