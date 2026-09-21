@@ -1,3 +1,9 @@
+### [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book)
+- **Description:** 📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+
+### [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+- **Description:** 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+
 ### [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 - **Description:** World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
@@ -502,9 +508,6 @@
 ### [LightMingMing/tiny-netty](https://github.com/LightMingMing/tiny-netty)
 - **Description:** 自己动手写netty
 
-### [tomsfan/ProjectOpenCourse](https://github.com/tomsfan/ProjectOpenCourse)
-- **Description:** 超高质量免费编程入门课
-
 ### [huangzworks/redis-3.0-annotated](https://github.com/huangzworks/redis-3.0-annotated)
 - **Description:** 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 
@@ -631,7 +634,7 @@
 ### [braisdom/ObjectiveSql](https://github.com/braisdom/ObjectiveSql)
 - **Description:** Writing SQL using Java syntax
 
-### [Tencent/APIJSON](https://github.com/Tencent/APIJSON)
+### [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON)
 - **Description:** 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 
 ### [yahoo/elide](https://github.com/yahoo/elide)
