@@ -1,3 +1,9 @@
+### [XUJINKAI/bobby-carrot-5-remake](https://github.com/XUJINKAI/bobby-carrot-5-remake)
+- **Description:** 《兔子波比5》重制项目，现代引擎，在线游玩，原版400关+拓展地图+地图编辑器。Bobby Carrot 5 remake, modern engine, play online, original 400 level + extra maps + map editor.
+
+### [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+- **Description:** Spec-driven development (SDD) for AI coding assistants.
+
 ### [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book)
 - **Description:** 📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 
@@ -52,7 +58,7 @@
 - **Description:** NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
 
 ### [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
-- **Description:** clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+- **Description:** Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容
 
 ### [lakernote/easy-postman](https://github.com/lakernote/easy-postman)
 - **Description:** An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
@@ -788,7 +794,7 @@
 - **Description:** An independant implementation of a mini version of Git
 
 ### [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press)
-- **Description:** Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
+- **Description:** Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。
 
 ### [skylot/jadx](https://github.com/skylot/jadx)
 - **Description:** Dex to Java decompiler
