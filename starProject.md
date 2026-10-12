@@ -317,7 +317,7 @@
 - **Description:** Yoga is an embeddable layout engine targeting web standards.
 
 ### [ccfos/nightingale](https://github.com/ccfos/nightingale)
-- **Description:** Nightingale is to monitoring and alerting what Grafana is to visualization.
+- **Description:** Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 
 ### [tmeseoi/telegram.github.io](https://github.com/tmeseoi/telegram.github.io)
 - **Description:** telegram群组，TG群组，电报群组
@@ -424,7 +424,7 @@
 - **Description:** SQL DSL (Domain Specific Language) for Kotlin and Java. Supports rendering for MyBatis or Spring JDBC Templates
 
 ### [sampotts/plyr](https://github.com/sampotts/plyr)
-- **Description:** A simple HTML5, YouTube and Vimeo player
+- **Description:** Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 
 ### [alibaba/tengine](https://github.com/alibaba/tengine)
 - **Description:** A high-performance web server and reverse proxy, 100% compatible with nginx.
