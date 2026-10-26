@@ -1,3 +1,9 @@
+### [eecs498-aase/materials](https://github.com/eecs498-aase/materials)
+- **Description:** Lecture and lab slides for EECS 498 AASE (Applied Agentic Software Engineering), UMich Fall 2026
+
+### [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
+- **Description:** A list of open source games.
+
 ### [XUJINKAI/bobby-carrot-5-remake](https://github.com/XUJINKAI/bobby-carrot-5-remake)
 - **Description:** 《兔子波比5》重制项目，现代引擎，在线游玩，原版400关+拓展地图+地图编辑器。Bobby Carrot 5 remake, modern engine, play online, original 400 level + extra maps + map editor.
 
