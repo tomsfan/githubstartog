@@ -1,3 +1,6 @@
+### [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
+- **Description:** A book for Learning the Foundations of LLMs
+
 ### [eecs498-aase/materials](https://github.com/eecs498-aase/materials)
 - **Description:** Lecture and lab slides for EECS 498 AASE (Applied Agentic Software Engineering), UMich Fall 2026
 
